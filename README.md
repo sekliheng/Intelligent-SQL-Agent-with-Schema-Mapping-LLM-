@@ -1,0 +1,2 @@
+# Intelligent-SQL-Agent-with-Schema-Mapping-LLM-
+An Intelligent SQL Agent with Semantic Schema Mapping is an excellent choice for a capstone project. It bridges the gap between natural language processing and relational databases, solving a massive corporate problem: allowing non-technical stakeholders to query complex data securely without knowing SQL.
