@@ -1,0 +1,5 @@
+pymysql
+sqlglot 
+python-dotenv
+langchain-chroma 
+langchain-google-genai
